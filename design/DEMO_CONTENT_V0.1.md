@@ -1,3 +1,5 @@
+> **已过时（2026-10-26）**：世界观、术语、敌人、画面方向以 `design/INTEGRATED_DESIGN.md`、`design/ART_BIBLE.md`、`docs/ROADMAP.md` 为准。本文件只作历史参考。
+
 # 《断环》Demo 内容与数值设计 v0.1
 
 > 适用章节：第一幕“无字之城”纵向切片

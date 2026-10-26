@@ -1,3 +1,5 @@
+> **已过时（2026-10-26）**：世界观、术语、敌人、画面方向以 `design/INTEGRATED_DESIGN.md`、`design/ART_BIBLE.md`、`docs/ROADMAP.md` 为准。本文件只作历史参考。
+
 # 《断环》游戏设计基线 v0.1
 
 > 类型：单机肉鸽牌组构筑 / 回合制战斗 / 多周目叙事
