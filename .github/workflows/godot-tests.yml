@@ -34,6 +34,9 @@ jobs:
       - name: Import project and parse scripts
         run: '"$GODOT_BIN" --headless --path "$GITHUB_WORKSPACE" --editor --quit'
 
+      - name: Run new battle core tests
+        run: '"$GODOT_BIN" --headless --path "$GITHUB_WORKSPACE" --script res://tests/test_battle.gd'
+
       - name: Run combat tests
         run: '"$GODOT_BIN" --headless --path "$GITHUB_WORKSPACE" --script res://tests/test_combat.gd'
 
